@@ -1,5 +1,5 @@
 # Nodejs-FEM-Workshop
-Node.js Front End Masters - Workshop Code
+[Node.js Front End Masters](https://frontendmasters.com/courses/building-web-apps-with-node-js/) - Workshop Code
 
 ## Challenges
 
