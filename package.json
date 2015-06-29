@@ -1,0 +1,23 @@
+{
+  "name": "Nodejs-FEM-Workshop",
+  "version": "1.0.0",
+  "description": "Node.js Workshop solutions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vasanthk/Nodejs-FEM-Workshop.git"
+  },
+  "author": "Vasanth Krishnamoorthy (http://www.vasanthk.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasanthk/Nodejs-FEM-Workshop/issues"
+  },
+  "homepage": "https://github.com/vasanthk/Nodejs-FEM-Workshop",
+  "dependencies": {
+    "fs": "0.0.2",
+    "http": "0.0.0"
+  }
+}
